@@ -1,0 +1,7 @@
+# local package state
+/node_modules
+/yarn.lock
+
+# esbuild outputs
+/scripts/session_server.js
+/www/*.js*
